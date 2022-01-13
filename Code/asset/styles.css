@@ -1,0 +1,27 @@
+body {
+  background-color: grey;
+}
+
+.jumbotron {
+  background-image: url("./img/cbeans.jpg");
+  background-size: 100%;
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+#coffeePic {
+  width: 600px;
+}
+
+/* #coffeequote {
+  height: 550px;
+} */
+
+input {
+  text-align: center;
+}
+
+.carousel-item {
+  height: 520px;
+}
