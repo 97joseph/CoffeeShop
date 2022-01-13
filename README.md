@@ -6,14 +6,8 @@ For various reasons, Ethiopia suffers from an image problem. Our image has becom
 
 Ethiopia is the birthplace of coffee and our company aims to rebrand Ethiopia through its amazing coffee. Our tagline is “changing destiny by changing image”. Our company is called Source Coffee “the original”
 
-```
-![Alt text](51.PNG?raw=true "Title")
-```
+![Alt text](51.PNG?raw=true "Start Page")
 
-```
-![Alt text](52.PNG?raw=true "Title")
-```
+![Alt text](52.PNG?raw=true "Search")
 
-```
-![Alt text](53.PNG?raw=true "Title")
-```
+![Alt text](53.PNG?raw=true "Commentary")
